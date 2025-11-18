@@ -30,7 +30,7 @@ const DoctorDetails: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center gap-8">
           <img src="https://picsum.photos/400/400?image=823" alt="Dr. Emily Carter" className="w-40 h-40 rounded-full object-cover shadow-xl"/>
           <div>
-            <h1 className="text-4xl font-bold">Dr. Emily Carter</h1>
+            <h1 className="text-4xl font-bold">Dr. Kalva Swetha</h1>
             <p className="text-xl text-teal-600 font-semibold mt-1">Doctor of Physical Therapy, Orthopedic Clinical Specialist</p>
           </div>
         </div>
