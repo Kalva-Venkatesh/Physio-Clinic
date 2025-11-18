@@ -1,0 +1,5 @@
+{
+  "name": "PhysioCare Connect",
+  "description": "A modern web application for a physiotherapy clinic, allowing users to book and manage appointments, view services, and learn more about the doctor. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
